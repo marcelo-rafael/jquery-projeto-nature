@@ -8,7 +8,7 @@
 <h4 align="center"> 
 	🚧   Javascript e Jquery 🚧
 </h4>
-<p align="center">Deployed <a href="https://marcelo-rafael.github.io/jquery-projeto-nature">here</a>.</p>
+<p align="center">Deployed <a href="https://marcelo-rafael.github.io/nature">here</a>.</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
