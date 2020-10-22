@@ -54,8 +54,7 @@
 
 ---
 
-
-## 💻 Sobre o projeto
+# :computer: About
 
 Nature is a project to practice the manipulation of DOM elements based on user interactions. let's practice how to animate the scroll, change classes on click, create a mobile menu and more.
 
