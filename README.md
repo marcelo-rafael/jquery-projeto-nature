@@ -1,73 +1,117 @@
-<p align="center">
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
+
 <h1 align="center">
-    <img alt="nature" title="#nature" src="./nature.png" />
+    <img alt="Nature" title="#Nature" src=".github/nature.png" />
 </h1>
 
-<h4 align="center"> 
-	🚧   Javascript e Jquery 🚧
-</h4>
-<p align="center">Deployed <a href="https://marcelo-rafael.github.io/nature">here</a>.</p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+  <img alt="Author" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=flat-square">
+	
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/nature?color=informational">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelo-rafael/nature?color=informational">
+  
+  <a href="https://github.com/marcelo-rafael/nature/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/nature?color=informational">
+  </a>
+
+  <a href="https://github.com/marcelo-rafael/nature/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/marcelo-rafael/nature?color=informational">
+  </a>
+
+  <a href="https://github.com/marcelo-rafael/nature/blob/master/LICENSE.md">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
+  <a>
+   
+   <a href="https://github.com/marcelo-rafael/nature/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/nature?style=flat-square?color=informational">
+  </a>
+  
+  <a href="https://github.com/marcelo-rafael/nature/stargazers">
+    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/nature?style=flat-square?color=informational">
+  </a>
+  
+  <a href="https://github.com/marcelo-rafael/nature/stargazers">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/marcelo-rafael/nature?style=flat-square&color=informational">
+  </a>
 </p>
 
+<h4 align="center"> 
+	🚧  Nature 🚧
+</h4>
+<p align="center">Deployed <a href="https://marcelo-rafael.github.io/nature/">here</a>.</p>
 
-## 💻 Sobre o projeto
 
-Projeto desenvolvido durante a curso de  JavaScript e JQuery
-oferecido por [Origamid](https://www.origamid.com/curso/javascript-e-jquery).
+# :pushpin: Table of Contents
+
+* [About](#computer-about)
+* [Installation](#construction_worker-installation)
+* [Tech Stack](#rocket-tech-stack)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [Author](#man-author)
+* [License](#closed_book-license)
 
 ---
 
 
-## 🚀 Como executar o projeto
+## 💻 Sobre o projeto
 
-Este projeto é feito em uma parte:
-
-1. Frontend (javascript_e_jquery folder)
+Nature is a project to practice the manipulation of DOM elements based on user interactions. let's practice how to animate the scroll, change classes on click, create a mobile menu and more.
 
 
-#### 🧭 Rodando a aplicação web
+Project developed during the JavaScript e Jquery course offered by the [Origamid](https://www.origamid.com/curso/javascript-e-jquery).
+
+---
+
+# :construction_worker: Installation
+
+
+This project is done in one part
+
+1. Frontend (nature folder)
+
+#### Running the web application (Frontend)
 
 ```bash
 
-# Clone este repositório
-$ git clone https://github.com/marcelo-rafael/jquery-projeto-nature
+# Clone this repository
+$ git clone https://github.com/marcelo-rafael/nature
 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd javascript_e_jquery
+# Access the project folder in your terminal
+$ cd nature
 
 
 ```
 
 ---
 
+# :rocket: Tech Stack
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 -   **[jquery](https://jquery.com/)**
 
 ---
 
-## 💪 Como contribuir para o projeto
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [caravan](https://github.com/marcelo-rafael/nature/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/marcelo-rafael/nature/blob/master/CONTRIBUTING.md) to find out about the coding standards.
 
 ---
 
-## Autor
+# :tada: Contributing
+
+1. Fork the project.
+2. Create a new branch with your changes: `git checkout -b my-feature`
+3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
+4. Submit your changes: `git push origin my-feature`
+> If you have any questions check this [guide on how to contribute](./CONTRIBUTING.md)
+
+---
+
+# :man: Autor
 
 <img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 
@@ -76,10 +120,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 📝 Licença
+# :closed_book: License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the [MIT](./LICENSE).
 
 
-Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
-
+Made with love by [Marcelo Rafael](https://github.com/marcelo-rafael) 💜🚀
