@@ -3,125 +3,116 @@
     <img alt="Nature" title="#Nature" src=".github/nature.png" />
 </h1>
 
-
-<p align="center">
-  <img alt="Author" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=flat-square">
-	
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/nature?color=informational">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelo-rafael/nature?color=informational">
-  
-  <a href="https://github.com/marcelo-rafael/nature/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/nature?color=informational">
-  </a>
-
-  <a href="https://github.com/marcelo-rafael/nature/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/marcelo-rafael/nature?color=informational">
-  </a>
-
-  <a href="https://github.com/marcelo-rafael/nature/blob/master/LICENSE.md">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
-  <a>
-   
-   <a href="https://github.com/marcelo-rafael/nature/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/nature?style=flat-square?color=informational">
-  </a>
-  
-  <a href="https://github.com/marcelo-rafael/nature/stargazers">
-    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/nature?style=flat-square?color=informational">
-  </a>
-  
-  <a href="https://github.com/marcelo-rafael/nature/stargazers">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/marcelo-rafael/nature?style=flat-square&color=informational">
-  </a>
-</p>
-
-<h4 align="center"> 
-	🚧  Nature 🚧
-</h4>
-<p align="center">Deployed <a href="https://marcelo-rafael.github.io/nature/">here</a>.</p>
+<div align="center">
+  	<!-- LICENSE -->
+  	<img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+	<!-- LAST COMMIT -->
+	<a href="https://github.com/marcelo-rafael/origamid-nature/commits/master">
+    	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/origamid-nature?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
+  	</a>
+	<!-- STARS -->
+  	<a href="https://github.com/marcelo-rafael/origamid-nature/stargazers/master">
+    	<img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/origamid-nature?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
+  	</a>
+  	<!-- FORKS -->
+  	<a href="https://github.com/marcelo-rafael/origamid-nature/forks/master">
+    	<img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/origamid-nature?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
+  	</a>
+  	<!-- AUTHOR -->
+  	<img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  	<!-- LANGUAGES -->
+  	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/origamid-nature?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  	<!-- REPO SIZE -->
+  	<img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/origamid-nature?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  	<!-- CONTRIBUTORS -->
+ 	<img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/origamid-nature?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+</div>
 
 
-# :pushpin: Table of Contents
-
-* [About](#computer-about)
-* [Installation](#construction_worker-installation)
-* [Tech Stack](#rocket-tech-stack)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [Author](#man-author)
-* [License](#closed_book-license)
+<h1 align="center"> 
+	Nature - JavaScript & Jquery - Origamid
+</h1>
+<p align="center">Deployed <a href="https://marcelo-rafael.github.io/origamid-nature/">here</a>.</p>
 
 ---
 
-# :computer: About
+## :computer: About
 
 Nature is a project to practice the manipulation of DOM elements based on user interactions. let's practice how to animate the scroll, change classes on click, create a mobile menu and more.
-
 
 Project developed during the JavaScript e Jquery course offered by the [Origamid](https://www.origamid.com/curso/javascript-e-jquery).
 
 ---
 
-# :construction_worker: Installation
 
+## :rocket: Tech Stack
 
-This project is done in one part
+The following tools were used in the construction of the project:
 
-1. Frontend (nature folder)
+- **[jquery](https://jquery.com/)**
 
-#### Running the web application (Frontend)
+---
+
+#### 🚀 How to run the project
+
+##### Prerequisites
+
+Have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+
+---
+
+#### 👯 Cloning the repository
 
 ```bash
-
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/nature
+$ git clone https://github.com/marcelo-rafael/origamid-nature
 
-# Access the project folder in your terminal
-$ cd nature
 
+# Access the project folder in the terminal/cmd
+$ cd origamid-nature
 
 ```
 
 ---
+	  
+#### 💪 How to contribute to the project
+	  
+1. 🍴 Fork the project.
+2. 👯 Clone this repository to your machine.
+3. 🎋 Create a new branch with your changes: `git checkout -b my-feature`
+4. ✅ Save the changes and create a commit message telling you what you've done: `git commit -m "feature: My new feature"`
+5. 📌 Submit your changes: `git push origin my-feature`
+6. 🔃 Create a new pull request
 
-# :rocket: Tech Stack
 
-The following tools were used in the construction of the project:
+Once your pull request has been merged, you can delete `your-feature`
 
--   **[jquery](https://jquery.com/)**
-
----
-
-
-# :bug: Issues
-
-Feel free to **file a new issue** with a respective title and description on the the [caravan](https://github.com/marcelo-rafael/nature/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/marcelo-rafael/nature/blob/master/CONTRIBUTING.md) to find out about the coding standards.
-
----
-
-# :tada: Contributing
-
-1. Fork the project.
-2. Create a new branch with your changes: `git checkout -b my-feature`
-3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
-4. Submit your changes: `git push origin my-feature`
-> If you have any questions check this [guide on how to contribute](./CONTRIBUTING.md)
+> If you have any questions, check out this [GitHub Contribution Guide](https://github.com/firstcontributions/first-contributions)
 
 ---
 
-# :man: Autor
+##### 🤓 Autor
 
-<img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rafael-gonçalves/)](https://www.linkedin.com/in/marcelo-rafael-gonçalves/) 
-[![Gmail Badge](https://img.shields.io/badge/-marcelo.rafael.goncalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.rafael.goncalves@gmail.com)](mailto:marcelo.rafael.goncalves@gmail.com)
+<img src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
+<div>
+<a href="mailto:marcelo.rafael.goncalves@gmail.com">
+      <img alt="Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
+<a href="https://www.linkedin.com/in/marcelo-rafael-gonçalves/">
+      <img alt="Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   </a>
+<a href="https://github.com/marcelo-rafael">
+  <img alt="Made by Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-Github-0077B5?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/marcelo-rafael" />
+  </a>
+</div>
 
 ---
+	  
+##### 📝 LICENSE
 
-# :closed_book: License
+This repository is licensed under the **MIT LICENSE**. For more detailed information, read the [LICENSE](./LICENSE) file contained in this repository.
 
-This project is under the [MIT](./LICENSE).
-
-
-Made with love by [Marcelo Rafael](https://github.com/marcelo-rafael) 💜🚀
+<h3 align="center">
+Made with ❤️ by <a href="https://www.linkedin.com/in/marcelo-rafael-goncalves/">Marcelo Rafael Gonçalves 💜🚀</a>
+</h3>
+	 
